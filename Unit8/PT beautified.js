@@ -1,5 +1,3 @@
-done using https://beautifier.io
-
 //variables
 var playerChoicesList=["icon://fa-male","icon://fa-female","icon://fa-bug","icon://fa-plane","icon://fa-car","icon://fa-rocket","icon://fa-heart","icon://fa-heart"];
 var score=0;
